@@ -9,10 +9,7 @@
 - 🌱 I'm recently learning to program in Java Script and Scratch
 - 💞 I really like playing ball and skateboarding
 - 📫 You can reach me on my Instagram @victorxzz_27
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-vitinhogab/vitinhogab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)
+![](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
+![](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
+![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
